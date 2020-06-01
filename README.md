@@ -1,13 +1,13 @@
 # Kusama Projects
 
-Project by Math Wallet, ( https://kusamaproject.com )
+https://kusamaproject.com
 
-## Abstract 
+## Abstract
 
-KusamaProjects (https://kusamaproject.com) is an open-source directory of chains, dApps, and ecosystem components building on the Kusama network. The website will store metadata associated with each project and serve as a living source of truth, maintained by the community. 
+KusamaProjects (https://kusamaproject.com) is an open-source directory of chains, dApps, and ecosystem components building on the Kusama network. The website will store metadata associated with each project and serve as a living source of truth, maintained by the community.
 
 ## Project Description
-Kusama is a network of multiple specialized blockchains built utilizing Substrate. Beyond providing a production-staging environment for projects deploying on Polkadot, Kusama will enable teams who want to move fast and innovate exclusively on the network. 
+Kusama is a network of multiple specialized blockchains built utilizing Substrate. Beyond providing a production-staging environment for projects deploying on Polkadot, Kusama will enable teams who want to move fast and innovate exclusively on the network.
 
 KusamaProjects will provide a directory for the community to share details about Wallets/Parachains/dApps/DAO's/Forums, etc., in a composable manner. The web application will be mobile friendly and deployed to https://kusamaproject.com.
 
@@ -40,8 +40,8 @@ If you want to improve or add a project, follow these steps:
 12.Maintain JSON data and subsequent updates
 
 Suggesting a project
-Please use Project template when creating an issue. 
+Please use Project template when creating an issue.
 
 ## Feedback
 
-Please open issues at any time for general feedback, or you can reach me directly at hello@mathwallet.org
+Please open issues at any time for general feedback, or you can reach polkaprojectcom@gmail.com
