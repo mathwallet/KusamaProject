@@ -24,16 +24,16 @@ If you want to improve or add a project, follow these steps:
 ## Adding a project
 
 (Contributors)
-1.Fork the repository or edit it from the posts-manifest.js
-2.Follow this format posts-manifest.default.js
-3.Name your-project-logo.png in kebab-case
-4.Copy your project logo with transparent background (.png / .jpg) into /logos/
-5.Ensure that verified status must be false by default
-6.MUST provide verifiable proof! ( e.g., Whitepaper, Public Announcement, Git Repository, Blog, etc.).
-7.Insert social links (optional)
-8.Add relevant tags
-9.Finally, update posts-manifest.js and double check
-10.Create a pull request
+1. Fork the repository or edit it from the posts-manifest.js
+2. Follow this format posts-manifest.default.js
+3. Name your-project-logo.png in kebab-case
+4. Copy your project logo with transparent background (.png / .jpg) into /logos/
+5. Ensure that verified status must be false by default
+6. MUST provide verifiable proof! ( e.g., Whitepaper, Public Announcement, Git Repository, Blog, etc.).
+7. Insert social links (optional)
+8. Add relevant tags
+9. Finally, update posts-manifest.js and double check
+10. Create a pull request
 
 (Maintainers)
 11.Audit and merge pull request
