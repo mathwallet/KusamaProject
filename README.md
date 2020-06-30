@@ -33,11 +33,9 @@ If you want to improve or add a project, follow these steps:
 7. Insert social links (optional)
 8. Add relevant tags
 9. Finally, update posts-manifest.js and double check
-10. Create a pull request
-
-(Maintainers)
-11.Audit and merge pull request
-12.Maintain JSON data and subsequent updates
+10. Create a pull request (Maintainers)
+11. Audit and merge pull request
+12. Maintain JSON data and subsequent updates
 
 Suggesting a project
 Please use Project template when creating an issue.
