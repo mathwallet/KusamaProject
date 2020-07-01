@@ -59,7 +59,7 @@ const mapping = [
       github: 'https://github.com/hicommonwealth',
       email:'ops@commonwealth.im',
       telegram: 'https://t.me/commonwealth_im',
-    },  
+    },
   },{
     title: 'Web3 Foundation Forum',
     category:'Forum',
@@ -131,7 +131,7 @@ const mapping = [
     links: {
       website: 'https://kusama.subscan.io/',
       email: 'hello@subscan.io',
-    },  
+    },
   },{
     title: 'PolkaCube',
     category:'Explorer',
@@ -149,7 +149,7 @@ const mapping = [
   	tags: ['Desktop','Mobile','Defi'],
     description: 'Nomination solution for Kusama',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/apps',
     links: {
       github: 'https://github.com/usetech-llc/apps',
@@ -163,7 +163,7 @@ const mapping = [
   	tags: [],
     description: 'C# API for Polkadot',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/polkadot_api_dotnet',
     links: {
       github: 'https://github.com/usetech-llc/polkadot_api_dotnet',
@@ -177,7 +177,7 @@ const mapping = [
   	tags: [],
     description: 'Non-Fungible Token Parachain',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/nft_parachain',
     links: {
       github: 'https://github.com/usetech-llc/nft_parachain',
@@ -191,7 +191,7 @@ const mapping = [
   	tags: [],
     description: 'Substrate based remake of CryptoPunks game',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/substrapunks',
     links: {
       github: 'https://github.com/usetech-llc/substrapunks',
@@ -205,7 +205,7 @@ const mapping = [
   	tags: ['Data'],
     description: 'PSQL Indexer for Polkadot',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/polkadot_psql_indexer',
     links: {
       github: 'https://github.com/usetech-llc/polkadot_psql_indexer',
@@ -219,7 +219,7 @@ const mapping = [
   	tags: [],
     description: 'C++ API for Polkadot',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/polkadot_api_cpp',
     links: {
       github: 'https://github.com/usetech-llc/polkadot_api_cpp',
@@ -233,7 +233,7 @@ const mapping = [
   	tags: [],
     description: 'Polkadot-Cosmos Bridge',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/polka_cosmos_bridge_poc',
     links: {
       github: 'https://github.com/usetech-llc/polka_cosmos_bridge_poc',
@@ -247,7 +247,7 @@ const mapping = [
   	tags: [],
     description: 'C# Implementation of SR25519',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/sr25519_dotnet',
     links: {
       github: 'https://github.com/usetech-llc/sr25519_dotnet',
@@ -261,7 +261,7 @@ const mapping = [
   	tags: [],
     description: 'C Implementation of SR25519',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/sr25519',
     links: {
       github: 'https://github.com/usetech-llc/sr25519',
@@ -275,7 +275,7 @@ const mapping = [
   	tags: [],
     description: 'Enterprise Usecases of Polkadot',
     image: './logos/UseTech.png',
-    verified: false,
+    verified: true,
   	proof: 'https://github.com/usetech-llc/enterprise_mindmap',
     links: {
       github: 'https://github.com/usetech-llc/enterprise_mindmap',
