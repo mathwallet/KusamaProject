@@ -467,7 +467,7 @@ const mapping = [
     category:'SubstrateBased',
     tags: ['Data'],
     description: 'Blockchain Confidentiality by Trusted Computing',
-    image: './logos/Akropolis.jpg',
+    image: './logos/Phala.jpg',
     verified: true,
     proof: 'https://phala.network/',
     links: {
