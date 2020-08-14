@@ -44,7 +44,7 @@
     <div class="main">
       <ul class="dapp-list" v-if="projectList.length>0">
         <li class="dapp-info clearfix" v-for="(project,i) in projectList" :key="i" @click="openModal(project)">
-          <img :src="project.image?project.image:'./static/img/icon/default.png'">
+          <img :src="project.image?'https://medishares-cn.oss-cn-hangzhou.aliyuncs.com/kusama_project/'+project.image:'./static/img/icon/default.png'">
           <div class="dapp-text">
             <h4 class="dapp-title">{{project.title}}</h4>
             <!-- 邮箱等链接 -->
@@ -94,7 +94,7 @@
       </div>
     </div>
   </div>
-  <script type="text/javascript" src="data/posts-manifest.js"></script>
+  <script type="text/javascript" src="https://medishares-cn.oss-cn-hangzhou.aliyuncs.com/kusama_project/posts-manifest.js"></script>
   <script type="text/javascript" src="static/js/jquery-3.2.1.min.js"></script>
   <script type="text/javascript" src="static/js/vue.min.js"></script>
   <script type="text/javascript" src="static/js/lodash.min.js"></script>

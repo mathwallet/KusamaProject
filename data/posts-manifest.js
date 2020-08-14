@@ -572,5 +572,29 @@ const mapping = [
       github:'https://github.com/renproject',
       telegram:'https://t.me/renproject',
     },
+  },{
+    title: 'Polkaswap',
+    category:'Wallet',
+    tags: ['Defi'],
+    description: 'Polkaswap is a non custodial AMM DEX',
+    image: './logos/Polkaswap.jpg',
+    verified: true,
+    proof: 'https://polkaswap.io/',
+    links: {
+      website: 'https://polkaswap.io/',
+      telegram:'https://t.me/polkaswap',
+    },
+  },{
+    title: 'Fearless Wallet',
+    category:'Wallet',
+    tags: ['Defi'],
+    description: 'Fearless Wallet is focused on providing the best user experience, fast performance, and secure storage for your accounts. In addition to Kusama and Polkadot features, there will be DEX support in the future releases',
+    image: './logos/Fearless.jpg',
+    verified: true,
+    proof: 'https://soramitsu.co.jp/fearless',
+    links: {
+      website: 'https://soramitsu.co.jp/fearless',
+      telegram:'https://t.me/fearlesswallet ',
+    },
   },
 ]
