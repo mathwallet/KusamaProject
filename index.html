@@ -28,7 +28,10 @@
       <ul class="blockchain">
         <li v-for="item in categories" :key="item.ID" @click="switchCategory(item)" :class="{active:selectedCategory.ID==item.ID&&(!isMobile)}">{{item.title}}</li>
       </ul>
-      <a href="https://twitter.com/polkaprojectcom" class="github" target="_blank"><img src="./static/img/icon/github.png" width="24"></a>
+      <div class="github">
+        <a href="https://github.com/PolkaProject/KusamaProject" target="_blank"><img src="./static/img/icon/github.png" width="24"></a>
+        <a style="margin-left:12px" href="https://twitter.com/KusamaProject" target="_blank"><img src="./static/img/icon/twitter.png" width="24"></a>
+      </div>
     </section>
     <!-- 头部导航 -->
     <header>
